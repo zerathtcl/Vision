@@ -1,6 +1,6 @@
 ## 📋 Description
 
-Bonjour ! J'ai décidé de partager cette base fivem. 
+Bonjour ! J'ai décidé de leak cette base fivem. 
 
 ## ✅ Caractéristiques
 | Fonctionnalité | Statut | Description |
