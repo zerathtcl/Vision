@@ -14,10 +14,10 @@ Bonjour ! J'ai décidé de partager cette base fivem développée et leak le web
 
 ## 🆘 Besoin d'aide ?
 Si vous avez besoin d'assistance, vous pouvez rejoindre notre **Discord** où notre équipe pourra vous aider avec :
-- 📚 La base de code
-- 🗺️ Les mappings
-- 🔧 L'installation
-- 🐛 Le débegage
+- 📚 Base Fivem
+- 🗺️ mappings
+- 🔧 L'installation simple
+- 🐛 Bsae Debug
 - ✨ Et bien plus encore !
 
 ---
