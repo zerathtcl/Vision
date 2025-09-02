@@ -21,10 +21,10 @@ Si vous avez besoin d'assistance, vous pouvez rejoindre notre **Discord** où no
 ---
 *Rejoignez notre communauté pour une expérience de développement optimale !* 🎯
 
-Join Discord : [DISCORD](https://gofile.io/d/X4yGI1)
+Join Discord : [DISCORD](https://discord.gg/pG9QksuMwt)
 
 ## Ressources
 📦 Les fichiers de la base sont disponibles ici : [Télécharger sur Gofile](https://gofile.io/d/X4yGI1)
 
 ## Preview
-**Preview vidéo disponible** → [Preview](https://www.youtube.com/watch?v=RFiSXoo-dhg&t=2s)
+vidéo → [Preview](https://www.youtube.com/watch?v=RFiSXoo-dhg&t=2s)
