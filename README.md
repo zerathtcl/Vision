@@ -13,9 +13,9 @@ Bonjour ! J'ai décidé de leak cette base fivem.
 ## 🆘 Besoin d'aide ?
 Si vous avez besoin d'assistance, vous pouvez rejoindre notre **Discord** où notre équipe pourra vous aider avec :
 - 📚 Base Fivem
-- 🗺️ mappings
+- 🗺️ mappings (sur discord)
 - 🔧 L'installation simple
-- 🐛 Bsae Debug
+- 🐛 Base Debug
 - ✨ Et bien plus encore !
 
 ---
