@@ -1,1 +1,24 @@
-# Vision
+# 🚀 Vision
+
+## 📋 Description
+
+Bonjour ! J'ai décidé de partager cette base fivem développée et leak le web unbuild avec. 
+
+## ✅ Caractéristiques
+| Fonctionnalité | Statut | Description |
+|----------------|--------|-------------|
+| 🔓 Base Fivem | Déverrouillée | Prête à l'emploi |
+| 🛠️ Support technique | Disponible | Équipe dédiée |
+| 🗺️ Mappings | Inclus |  Gratuit / Payant sur notre discord |
+| 💬 Discord | Actif | Communauté active |
+
+## 🆘 Besoin d'aide ?
+Si vous avez besoin d'assistance, vous pouvez rejoindre notre **Discord** où notre équipe pourra vous aider avec :
+- 📚 La base de code
+- 🗺️ Les mappings
+- 🔧 L'installation
+- 🐛 Le débegage
+- ✨ Et bien plus encore !
+
+---
+*Rejoignez notre communauté pour une expérience de développement optimale !* 🎯
