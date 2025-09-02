@@ -27,4 +27,4 @@ Join Discord : [DISCORD](https://discord.gg/pG9QksuMwt)
 📦 Les fichiers de la base sont disponibles ici : [Télécharger sur Gofile](https://gofile.io/d/X4yGI1)
 
 ## Preview
-vidéo → [Preview](https://www.youtube.com/watch?v=RFiSXoo-dhg&t=2s)
+[Preview](https://www.youtube.com/watch?v=RFiSXoo-dhg&t=2s)
