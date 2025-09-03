@@ -26,5 +26,12 @@ Join Discord : [DISCORD](https://discord.gg/nfRk9ynsVy)
 ## Ressources
 📦 Les fichiers de la base sont disponibles ici : [Télécharger sur Gofile](https://gofile.io/d/X4yGI1)
 
+# VISION WEB UNBUILD : https://gofile.io/d/lSWUjT
+
+# FIGMA VISION : https://www.figma.com/design/3vcUVVQ5BQyh9BsgesrykW/Vision-Figma?node-id=0-1&t=1rM572dbOiiAjXQP-1
+(ALLEZ DESSUS , VOUS FAITE UNE COPIE ET VOUS AVAIS LE FIGMA)
+
+# CDN (IMAGE DE LA BASE) : JE LE FAIT APRES
+
 ## Preview
 [Preview](https://www.youtube.com/watch?v=RFiSXoo-dhg&t=2s)
