@@ -31,7 +31,7 @@ Join Discord : [DISCORD](https://discord.gg/nfRk9ynsVy)
 # FIGMA VISION : https://www.figma.com/design/3vcUVVQ5BQyh9BsgesrykW/Vision-Figma?node-id=0-1&t=1rM572dbOiiAjXQP-1
 (ALLEZ DESSUS , VOUS FAITE UNE COPIE ET VOUS AVAIS LE FIGMA)
 
-# CDN (IMAGE DE LA BASE) : JE LE FAIT APRES
+# CDN (IMAGE DE LA BASE) : [DOWNLOAD CDN](https://gofile.io/d/tvZ7Io)
 
 ## Preview
 [Preview](https://www.youtube.com/watch?v=RFiSXoo-dhg&t=2s)
